@@ -175,3 +175,6 @@ cython_debug/
 
 # dataset 폴더 내의 파일은 업로드 안되도록
 dataset/
+
+# 일단 lab02/ 등록
+lab02/
