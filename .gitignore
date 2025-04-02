@@ -175,6 +175,6 @@ cython_debug/
 
 # dataset 폴더 내의 파일은 업로드 안되도록
 dataset/
-lab02
+lab02/
 # 용량이 제일 큰 파일
 lab02/chapter10/bc_card_out2020_03.txt
