@@ -1,1 +1,0 @@
-# sqlqna_cursorai
